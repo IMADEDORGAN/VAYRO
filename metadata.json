@@ -1,0 +1,6 @@
+{
+  "name": "بصيرة - فحص الشبكية والنظر بالذكاء الاصطناعي",
+  "description": "تطبيق طبي متكامل لاكتشاف أمراض العين وتحليل شبكية العين بالذكاء الاصطناعي مع اختبارات نظر سريرية وتقرير نهائي شامل بالحلول العلاجية.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
